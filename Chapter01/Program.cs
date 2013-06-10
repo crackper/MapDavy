@@ -13,6 +13,8 @@ namespace Chapter01
             WorkflowInvoker.Invoke(new Workflow1());
 
             Console.WriteLine("Precione ENTER PARA SALIR");
+            Console.WriteLine("Precione ENTER PARA SALIR");
+            Console.WriteLine("Precione ENTER PARA SALIR");
             Console.ReadLine();   
         }
     }
