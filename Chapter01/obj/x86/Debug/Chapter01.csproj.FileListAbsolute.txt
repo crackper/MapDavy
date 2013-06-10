@@ -1,0 +1,17 @@
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Workflow1.g.xaml
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\_Chapter01.g.cs
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Workflow1.g.cs
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Chapter01.csproj.XamlGeneratedCodeFileListAbsolute.txt
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Chapter01.csproj.XamlGeneratedXamlFileListAbsolute.txt
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\InProcessTempFiles\Workflow1.g.cs
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\InProcessTempFiles\Workflow1.g.xaml
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\InProcessTempFiles\_Chapter01.g.cs
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Chapter01.exe
+e:\samuel\documents\visual studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Chapter01.pdb
+D:\Documents\Visual Studio 2010\Projects\WF4Book\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+D:\Documents\Visual Studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Chapter01.exe
+D:\Documents\Visual Studio 2010\Projects\WF4Book\Chapter01\Chapter01\obj\x86\Debug\Chapter01.pdb
